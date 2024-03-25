@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><fact-list>
+    <fact>
+        <fact-text>The working environment has a profound impact on productivity and quality.</fact-text>
+        <author>Robert L. Glass</author>
+        <fact-type>Fact</fact-type>
+    </fact>
+    <fact>
+        <fact-text>New tools/techniques cause an initial loss of productivity/quality.</fact-text>
+        <author>Robert L. Glass</author>
+        <fact-type>Fact</fact-type>
+    </fact>
+    <fact>
+        <fact-text>Quality IS: a collection of attributes.</fact-text>
+        <author>Robert L. Glass</author>
+        <fact-type>Fact</fact-type>
+    </fact>
+    <fact>
+        <fact-text>Quality is NOT: user satisfaction, meeting requirements, achieving cost/schedule, or reliability.</fact-text>
+        <author>Robert L. Glass</author>
+        <fact-type>Fact</fact-type>
+    </fact>
+    <fact>
+        <fact-text>You can manage quality into a software product.</fact-text>
+        <author>Robert L. Glass</author>
+        <fact-type>Fallacy</fact-type>
+    </fact>
+    <fact>
+        <fact-text>Random test input is a good way to optimize testing.</fact-text>
+        <author>Robert L. Glass</author>
+        <fact-type>Fallacy</fact-type>
+    </fact>
+    <fact>
+        <fact-text>Software is usually tested at best at the 55-60 percent (branch) coverage level.</fact-text>
+        <author>Robert L. Glass</author>
+        <fact-type>Fact</fact-type>
+    </fact>
+    <fact>
+        <fact-text>100 percent coverage is still far from enough.</fact-text>
+        <author>Robert L. Glass</author>
+        <fact-type>Fact</fact-type>
+    </fact>
+    <fact>
+        <fact-text>Test tools are essential, but many are rarely used.</fact-text>
+        <author>Robert L. Glass</author>
+        <fact-type>Fact</fact-type>
+    </fact>
+    <fact>
+        <fact-text>Test automation rarely is. Most testing activities cannot be automated.</fact-text>
+        <author>Robert L. Glass</author>
+        <fact-type>Fact</fact-type>
+    </fact>
+    <fact>
+        <author>John Doe</author>
+        <fact-type>FACTS</fact-type>
+        <fact-text>This is new fact</fact-text>
+    </fact>
+<fact><author>Alan Turing</author><fact-text>"Turing machines are theoretical devices used to simulate any computer algorithm."</fact-text><fact-type>Science</fact-type></fact><fact><author>Georgia O'Keeffe</author><fact-text>"Keeffe is known for her large-scale paintings of flowers."</fact-text><fact-type>Art</fact-type></fact><fact><author>Georgia O'Keeffe</author><fact-text>"Keeffe is known for her large-scale paintings of flowers."</fact-text><fact-type>Art</fact-type></fact><fact><author>Alan Turing</author><fact-text>"Turing machines are theoretical devices used to simulate any computer algorithm."</fact-text><fact-type>Science</fact-type></fact><fact><author>asdf</author><fact-text>sadf</fact-text><fact-type>asdf</fact-type></fact><fact><author>asdf</author><fact-text>asdf</fact-text><fact-type>asfdasdfsadfsadfsadf</fact-type></fact><fact><author>Pablo Picasso</author><fact-text>"Guernica is a powerful anti-war painting."</fact-text><fact-type>Art</fact-type></fact><fact><author>Marie Curie</author><fact-text>"Radioactivity is the spontaneous emission of radiation."</fact-text><fact-type>Science</fact-type></fact></fact-list>
